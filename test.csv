@@ -1,0 +1,11 @@
+TestCase,PinName,Value,PinName
+,,,
+Freq,  OverCurrent,  23,OverCurrent
+,UnderCurrent, 323,  UnderCurrent
+PoWEr,OverCurrent , 623,OverCurrent
+,UnderCurrent,923 , UnderCurrent
+Intr,OverCurrent  ,  1223 , OverCurrent
+,UnderCurrent , 1523 , UnderCurrent
+,OverCurrent , 1823,OverCurrent
+YRY,UnderCurrent,2123,UnderCurrent
+,OverCurrent,2423,OverCurrent
